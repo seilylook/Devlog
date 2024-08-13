@@ -2,8 +2,8 @@
 title = 'Dpp'
 date = 2024-07-20T16:46:07+09:00
 featuredImage = "/images/feature_images/spark.webp"
-tags = ["Spark", "Architecture"]
-categories = ["Data Engineering"]
+tags = ["Data Engineering"]
+categories = ["Spark"]
 draft = true
 +++
 
