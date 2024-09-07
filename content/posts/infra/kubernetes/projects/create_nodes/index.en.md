@@ -7,7 +7,7 @@ categories = ["Kubernetes"]
 draft = true
 +++
 
-## Install the start Minikube
+## Install and start Minikube
 
 ### Install the Minikube
 
