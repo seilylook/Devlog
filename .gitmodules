@@ -1,0 +1,7 @@
+[submodule "themes/DoIt"]
+	path = themes/DoIt
+	url = https://github.com/HEIGE-PCloud/DoIt.git
+[submodule "public"]
+	path = public
+	url = https://github.com/seilylook/seilylook.github.io.git
+	branch = main
