@@ -1,7 +1,7 @@
 +++
 date = '2025-04-30T14:05:30+09:00'
 draft = false
-featuredImage = "/images/hls.webp"
+featuredImage = "/images/features/hls.webp"
 categories = ["Technology"]
 tags = ["Streaming"]
 title = 'HLS(HTTP Live Streaming)'

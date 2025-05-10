@@ -1,7 +1,7 @@
 +++
 date = '2025-05-07T15:48:18+09:00'
 draft = false
-featuredImage = "/images/poetry.png"
+featuredImage = "/images/features/poetry.png"
 categories = ["Technology"]
 tags = ["Environment"]
 title = 'Poetry'
