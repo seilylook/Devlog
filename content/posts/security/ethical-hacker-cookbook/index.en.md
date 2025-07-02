@@ -41,3 +41,5 @@ Kali Linux ISO(운영체제 이미지)를 올릴 가상 머신을 설치해준�
 
 7. UTM에서 Graphical Install로 하면 설치가 되지않는 이슈가 있으니 **Install**을 선택한다.
 
+## Dnscope 설치
+
