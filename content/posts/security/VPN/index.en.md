@@ -1,9 +1,9 @@
 +++
 date = '2025-07-03T15:42:42+09:00'
 draft = false
-featuredImage = "/images/features/vpn.jpg"
+featuredImage = "/images/features/security.jpeg"
 categories = ["Cyber Security"]
-tags = ["Cyber Security"]
+tags = ["VPN"]
 title = 'VPN'
 +++
 

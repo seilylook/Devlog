@@ -3,7 +3,7 @@ date = '2025-07-03T15:42:15+09:00'
 draft = false
 featuredImage = "/images/features/proxy.webp"
 categories = ["Technology"]
-tags = ["Web"]
+tags = ["Proxy", "Web"]
 title = 'Proxy'
 +++
 

@@ -3,7 +3,7 @@ date = '2025-07-02T16:01:41+09:00'
 draft = false
 featuredImage = "/images/features/security.jpeg"
 categories = ["Cyber Security"]
-tags = ["Cyber Security"]
+tags = ["Kali Linux", "UTM"]
 title = 'Ethical Hacker Cookbook'
 +++
 

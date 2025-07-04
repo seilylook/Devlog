@@ -3,7 +3,7 @@ date = '2025-05-10T16:48:08+09:00'
 draft = false
 featuredImage = "/images/features/project.jpg"
 categories = ["Projects"]
-tags = ["Streaming"]
+tags = ["Kafka", "YOLO", "Flink", "InfluxDB", "Grafana"]
 title = 'CCTV Quality Monitor'
 +++
 
